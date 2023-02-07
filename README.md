@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Adrián Montero!
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="https://media2.giphy.com/media/4It78geE1sr72MFed9/giphy.gif?cid=ecf05e479v251flhmvxtw32dz4hc4ggame5qhfe9ubxk3p1v&rid=giphy.gif&ct=g" width="300"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=admont02&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="admont02" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/admont02/admont02/"> </a> 
 <br/>
@@ -90,42 +90,20 @@ Hi, I'm Adrián Montero!
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                    Adrián Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=admont02&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=admont02&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=admont02&theme=algolia)                    | 
+| ![Adrián G𝚒𝚝H𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=admont02&theme=react-dark&hide_border=true&area=true) |
+| ![Adrián GitHub stats](https://github-readme-stats.vercel.app/api?username=admont02&show_icons=true&theme=algolia)              | 
+| ![Adrián GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=admont02&theme=algolia)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                     Adrián Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=admont02&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=admont02&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=admont02&langs_count=8&theme=algolia&layout=compact) |
 
 
 
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-
-
-  </td>
-  </tr>
-</table>
 
 ------
 En proceso
