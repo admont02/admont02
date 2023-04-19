@@ -1,7 +1,6 @@
 <h1 align="center">
 Hi, I'm Adrián Montero!
 
-  <img src="https://media2.giphy.com/media/4It78geE1sr72MFed9/giphy.gif?cid=ecf05e479v251flhmvxtw32dz4hc4ggame5qhfe9ubxk3p1v&rid=giphy.gif&ct=g" width="300"></h1>
   
   ![snake gif](https://github.com/admont02/admont02/blob/output/github-contribution-grid-snake.gif)
  <!--<img src="https://komarev.com/ghpvc/?username=admont02&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="admont02" />-->
@@ -19,10 +18,8 @@ Hi, I'm Adrián Montero!
 ```
 
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 Studying 3rd year of Desarrollo de Videojuegos at Universidad Complutense de Madrid
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
+📝 I'm keen on learn as much as possible
 🌟 Main languages: C++,C#, JavaScript
 ```
 <hr>
@@ -61,4 +58,3 @@ Hi, I'm Adrián Montero!
 
 
 ------
-En proceso
