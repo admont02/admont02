@@ -4,8 +4,7 @@ Hi, I'm Adrián Montero!
   
   ![snake gif](https://github.com/admont02/admont02/blob/output/github-contribution-grid-snake.gif)
  <!--<img src="https://komarev.com/ghpvc/?username=admont02&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="admont02" />-->
- <img src="https://gpvc.arturio.dev/admont02" alt="Profile views" align='right'/> <a href="https://github.com/admont02/admont02/"> </a> 
-<br/>
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
