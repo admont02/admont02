@@ -18,9 +18,9 @@ Hi, I'm Adrián Montero!
 ```
 
 -------------------------
-📚 Studying 3rd year of Desarrollo de Videojuegos at Universidad Complutense de Madrid
+📚 Studying 4rd year of Desarrollo de Videojuegos at Universidad Complutense de Madrid
 📝 I'm keen on learn as much as possible
-🌟 Main languages: C++,C#, JavaScript
+🌟 Main languages: C++,C#, JavaScript, Java, Python
 ```
 <hr>
 
