@@ -1,8 +1,6 @@
 <h1 align="center">¡Hola, soy Adrián Montero!</h1>
 
-<p align="center">
-  <img src="https://github.com/admont02/admont02/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
-</p>
+<h2 align="center">https://admont02.github.io/</h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,8 +12,6 @@
 
 <p align="center">
   📚 Estudiando 4to año de Desarrollo de Videojuegos en la Universidad Complutense de Madrid <br>
-  📝-readme en construccion
-  🌟  C++, C#, JavaScript, Java, Python
 </p>
 
 <hr>
